@@ -4,3 +4,32 @@ https://beewaterlabs.atlassian.net/
 
 # Issues: My header image went ghost, adjusting size or selecting another image is not working.
           Searching for other images also is not working on Brave and Safari browsers.....
+
+# Watcher - By default you are listed as a watcher on Spaces, Page or Blog Post you create.
+# To edit the watcher setting - Click on the profile icon (top right) / Person Settings / Email
+
+# Adding groups:
+# Settings / USer MGMT / Groups
+1. Add users to groups.
+2. Define Product access
+
+# Blueprint - Set of templates. (Create button)
+# Decision template -  For Working with stakeholders.
+
+# Meeting notes is another template you can use.
+
+
+# Keyboard shortcuts:
+# Home / Help / Keyboard shortcuts
+
+# Page restrictions:
+
+View restrictions are inherited from both Space & Parent Page.
+
+Edit restrictions are NOT inherited from the Parent page, only from the Space.
+
+# Managing User access:
+
+Click on the tix-tac-grid in the top left next to "Atlassian" / Administration
+
+
